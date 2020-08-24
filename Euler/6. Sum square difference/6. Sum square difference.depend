@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1473060840 source:c:\users\mini2\dropbox\euler\6. sum square difference\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,10 @@
+candidate 1 19
+candidate 2 19
+candidate 3 8
+candidate 4 3
+candidate 5 0
+candidate 6 0
+candidate 7 0
+candidate 8 0
+candidate 9 0
+candidate 10 0

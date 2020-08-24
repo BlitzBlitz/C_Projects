@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1473074194 source:c:\users\mini2\dropbox\euler\10. summation of primes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

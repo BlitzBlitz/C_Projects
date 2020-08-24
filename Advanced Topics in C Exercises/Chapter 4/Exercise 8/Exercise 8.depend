@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476311616 source:c:\users\tiranait-1\dropbox\advanced topics in c exercises\chapter 4\exercise 8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

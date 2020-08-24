@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1473090128 source:c:\users\german\desktop\4. largest palindrome product\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
